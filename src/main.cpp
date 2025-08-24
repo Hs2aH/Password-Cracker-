@@ -1,3 +1,4 @@
+#include <iostream>
 #include <algorithm>
 #include <atomic>
 #include <chrono>
@@ -5,7 +6,6 @@
 #include <cstdint>
 #include <fstream>
 #include <iomanip>
-#include <iostream>
 #include <mutex>
 #include <optional>
 #include <sstream>
@@ -13,7 +13,6 @@
 #include <thread>
 #include <unordered_set>
 #include <vector>
-
 #include <openssl/evp.h>
 
 // ========================== Utility ==========================
